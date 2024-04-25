@@ -13,3 +13,5 @@ This is a simple C++ program for the Arduino Uno that:
 6.) Display the running values on a I2C bus connected 2004A LCD display
 
 The program iterates continuously and indefinitely with no final result limited only by longint() and display size 
+
+The Arduino-Uno and the LCD display through 4 wires via the standard I2C connections (SCL and SDA) along with ground and 5V
