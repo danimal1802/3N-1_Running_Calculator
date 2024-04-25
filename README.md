@@ -1,3 +1,5 @@
+Refer to this YouTube video by Veritasium for context about 3N+1:  https://www.youtube.com/watch?v=094y1Z2wpJg
+
 This is a simple C++ program for the Arduino Uno that:
 
 1.) Incremently Iterates through values of N for the Collatz Conjecture 3N+1
