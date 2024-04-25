@@ -16,4 +16,12 @@ This is a simple C++ program for the Arduino Uno that:
 
 The program iterates continuously and indefinitely with no final result limited only by longint() and display size 
 
+Project Hardware:
+-----------------
+* Arduino Uno 
+* 2004a LCD - 5V 20X4 2004 20x4 Character LCD Display
+* (dupont jumper wires)
+* (mounting hardware) 
+* (USB type B cable - power and PC connection) 
+
 The Arduino-Uno and the LCD display through 4 wires via the standard I2C connections (SCL and SDA) along with ground and 5V
